@@ -44,7 +44,7 @@ Ouputs are:
 
 Syntax: 
 
-[labels, numlabels] = fuzzyslicmex(img,200,15);
+[labels, numlabels] = fuzzyslicmex(img,200);
 
 NOTES:
 
