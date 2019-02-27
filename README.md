@@ -54,4 +54,4 @@ Number of returned superpixels may be different from the input number of superpi
 
 ![Comparison result](https://github.com/Alicewithrabbit/Fuzzy-SLIC0/blob/master/demo.jpg)
 
-<center><font color=grey>**Figure 1. Comparison of Fuzzy SLIC0 and Fuzzy SLIC. Left one is the result obtained by Fuzzy SLIC0 and right one is the result obtained by Fuzzy SLIC**</font></center>
+<center><font color=grey>Figure 1. Comparison of Fuzzy SLIC0 and Fuzzy SLIC. Left one is the result obtained by Fuzzy SLIC0 and right one is the result obtained by Fuzzy SLIC.</font></center>
