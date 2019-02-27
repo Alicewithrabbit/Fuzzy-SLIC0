@@ -43,7 +43,7 @@ Ouputs are:
 2. Number of labels (final output superpixels) in the image
 
 Syntax: 
-[labels, numlabels] = fuzzyslicmex(img,200);
+[labels, numlabels] = fuzzyslic0mex(img,200);
 
 NOTES:
 Number of returned superpixels may be different from the input number of superpixels.
