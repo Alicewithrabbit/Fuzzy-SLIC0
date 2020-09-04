@@ -47,6 +47,11 @@ Syntax:
 
 NOTES:
 Number of returned superpixels may be different from the input number of superpixels.
+
+If you use this code please cite:
+
+C. Wu et al., "Fuzzy SLIC: Fuzzy Simple Linear Iterative Clustering," in IEEE Transactions on Circuits and Systems for Video Technology, doi: 10.1109/TCSVT.2020.3019109.
+
 */
 
 
